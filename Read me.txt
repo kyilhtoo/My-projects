@@ -1,0 +1,14 @@
+This 21 Flags game is taken  from a reality show, Survivor where contestants are taken 
+to a deserted island to compete in a series of challenges. Contestants are tested on
+their physical, mental and strategic thinking ability during the games and the last 
+person standing wins the prize of $1 million.
+
+21 Flags games pit two groups against each other. Each group takes turns against other 
+removing flags. Participants can removed 1,2 or 3 flags at a time but no more than 3. 
+The group that take out the last flag loses. 
+
+This is a very interesting game and can seem quite complex to find a winning strategy 
+at the first glance. However, the solution is quite straightforward if you try to see 
+the game through mathematical lenses. Based on mathematical analysis, I created a bot
+that is scalable (i.e adaptive to changes in starting number of flags and maximum number
+of flags allowed to remove) that would give serious competition to human rivals. 
